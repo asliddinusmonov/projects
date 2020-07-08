@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8dc47b3-6cb3-4377-b697-3b210cf98669" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="re-store" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YAROJysFWGqx9LjjDACOpW4iTx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bekio\re-store\src" />
+      <recent name="C:\Users\bekio\re-store\src\reducers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8dc47b3-6cb3-4377-b697-3b210cf98669" name="Default Changelist" comment="" />
+      <created>1582383378591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582383378591</updated>
+      <workItem from="1582383380573" duration="2927000" />
+      <workItem from="1582444762813" duration="5484000" />
+      <workItem from="1582476732454" duration="2709000" />
+      <workItem from="1582522137421" duration="3302000" />
+      <workItem from="1582548349448" duration="5511000" />
+      <workItem from="1582640998012" duration="8599000" />
+      <workItem from="1582811614150" duration="4979000" />
+      <workItem from="1582990459263" duration="2977000" />
+      <workItem from="1583052158678" duration="2450000" />
+      <workItem from="1583209974119" duration="4786000" />
+      <workItem from="1583299139692" duration="7508000" />
+      <workItem from="1583774122383" duration="5621000" />
+      <workItem from="1584026648843" duration="7181000" />
+      <workItem from="1585154195932" duration="2238000" />
+      <workItem from="1585221265643" duration="1905000" />
+      <workItem from="1585328050566" duration="1217000" />
+      <workItem from="1585331755628" duration="924000" />
+      <workItem from="1585333608897" duration="1147000" />
+      <workItem from="1585392630100" duration="2328000" />
+      <workItem from="1585486344664" duration="4282000" />
+      <workItem from="1585568596818" duration="3571000" />
+      <workItem from="1585716587983" duration="3009000" />
+      <workItem from="1586435694136" duration="328000" />
+      <workItem from="1586851913094" duration="7524000" />
+      <workItem from="1586876630811" duration="214000" />
+      <workItem from="1594203096262" duration="737000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#ESLint" timestamp="1582555161234">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#ESLint/0.0.1536.824@0.0.1536.824" timestamp="1582555161233" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582383479694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582383479694" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586876740964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586876740964" />
+    <state width="1515" height="203" key="GridCell.Tab.0.bottom" timestamp="1582993659771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582993659771" />
+    <state width="1515" height="203" key="GridCell.Tab.0.center" timestamp="1582993659771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582993659771" />
+    <state width="1515" height="203" key="GridCell.Tab.0.left" timestamp="1582993659771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582993659771" />
+    <state width="1515" height="203" key="GridCell.Tab.0.right" timestamp="1582993659771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582993659771" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1582522606224">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1582522606224" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1583303262391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583303262391" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586855296977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586855296977" />
+  </component>
+</project>
